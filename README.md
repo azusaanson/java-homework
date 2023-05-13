@@ -1,4 +1,4 @@
-# java_homework
+# java homework
 
 大学のjava授業の課題
 
