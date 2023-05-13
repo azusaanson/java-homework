@@ -2,6 +2,9 @@
 
 大学のjava授業の課題
 
+TO DO:
+- delete class files
+
 ## 技術
 
 ### HW1
